@@ -1,0 +1,79 @@
+.pagina1{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./wallpaper_anime_1.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+.pagina2{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./live_wallpaper.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{
+    width: 100vw;
+    background-image: url('./RGB_Line.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.Data{
+    color: darkcyan;
+    text-align: center;
+    font-size: 50px;
+}
+.Hora{
+    color: darkcyan;
+    text-align: center;
+    font-size: 50px;
+}
+.centered-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.circular-image{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+.rede-social{
+    text-align: center;
+}
+.f{
+    color: darkmagenta;
+}
+.w{
+    color: darkgreen;
+}
+.g{
+    color: slateblue;
+}
+.in{
+    color: darkcyan;
+}
+.centro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.cirtular{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.nome{
+    text-align: center;
+    color: antiquewhite;
+    font-style: italic;
+}
+.texto{
+    color: beige;
+    font-style: italic;
+}
